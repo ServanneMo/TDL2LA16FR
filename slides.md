@@ -1,7 +1,7 @@
 <!-- .slide: data-background-image="img/arton1267.gif" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
-# Medias et représentations : la construction médiatique du réel
+# Medias et représentations
 * Travaux dirigés
 
 <br/>Servanne Monjour (servanne.monjour@paris-sorbonne.fr)
