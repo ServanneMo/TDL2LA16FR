@@ -221,7 +221,7 @@ Toutes ces représentations, ces détournement, participent à faire de la Jocon
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
 
-## Représenter l'histoire : les régimes d'objectivité du documentaire
+## Représenter l'histoire : les régimes de vérité du documentaire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bachir2.jpg" data-background-size="contain" -->
@@ -236,10 +236,10 @@ CIN. Film documentaire et p. ell. en emploi subst. masc. documentaire. Film, gé
 <!-- .slide: data-background-image="img/bachir3.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
-### Le documentaire et les media
+### Les formes médiatiques du documentaire
 * genre cinématographique (information, histoire, propagande...)
 * genre télévisuel (divertissement grand public)
-* *vs* fiction ?
+* documentaire *vs* fiction ?
 
 >film de caractère didactique ou informatif qui vise principalement à restituer les apparences de la réalité. (Vincent Pinel, _Dictionnaire technique du cinéma_)
 
@@ -247,6 +247,7 @@ CIN. Film documentaire et p. ell. en emploi subst. masc. documentaire. Film, gé
 ===
 
 le documentaire — tel un document administratif — est présenté comme une preuve de l’existence d’un phénomène, technique, sociétal (humain ou animal), ou historique, dont il veut établir une description minutieuse, voire en tenter l’explication.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/extraitnanuk.mp4" data-background-size="contain" -->
@@ -259,9 +260,17 @@ Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé 
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
+### Problématiques du documentaire
+* Une typologie complexe: non fiction, reconstitution, docudrama, documentaire romancé, docufiction, documenteur (mockumentary), etc.
+* Qu'est-ce qu'un documentaire ? Est-ce certains contenus (images, sons, etc.) ont une valeur *ontologique* documentaire ? Ou est-ce que le documentaire n'est pas finalement aussi une construction médiatique ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
 ### De l'objectivité à l'objectivation
-* Une définition médiatique de l'objectivité
-* Des codes génériques, formels de la vraisemblance
+* Une définition médiatique de l'objectivité (le document d'archive, la photo, le film... pris sur le vif)
+* Des codes génériques, formels de la vraisemblance (le commentaire en voix off, le témoignage)
 * La possibilité du pastiche
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -306,7 +315,7 @@ Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé 
 <!-- .slide: class="hover" -->
 
 ## Conclusion
-Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en fonction du media qui le construisent. L'objectivité, en soit, n'est pas un accès direct au réel, mais une médiation du réel dont les conventions sont tacitement acceptée par tous. Ces conventions évoluent en même temps que les formes médiatiques (notamment). L'objectivité médiatique est donc toute relative.
+Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en fonction du media qui le construisent. L'objectivité, en soit, n'est pas un accès direct au réel, mais une médiation du réel dont les conventions sont tacitement acceptée par tous. Ces conventions évoluent en même temps que les formes médiatiques (notamment). L'objectivité médiatique est donc toute relative. Il n'y a pas de statut ontologique pur du document, ni même du genre documentaire. Construction médiatique, discursive, institutionnelle, le documentaire porte des conceptions de l'histoire, de la vérité, qui finissent par être intégrées par le public.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/post.png" data-background-size="contain" -->
