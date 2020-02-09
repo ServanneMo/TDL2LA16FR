@@ -217,3 +217,100 @@ La Joconde est certainement le tableau le plus connu au monde ; il a été peint
 
 ### Représenter, médier = construire l'oeuvre !
 Toutes ces représentations, ces détournement, participent à faire de la Joconde l'oeuvre la plus célèbre au monde, qui incarne successivement la France et son histoire, la beauté, le mystère, l'Art. La Joconde est en quelque sorte devenue un lieu commun. Sa reproduction, diffusée en masse, s’est substituée à l’original pour s'imposer dans notre inconscient collectif, avec un ensemble de connotations. Voir la Joconde "en vrai", au Louvre, ce n'est plus faire cette expérience authentique décrite par Benjamin: c'est vérifier ou confronter un imaginaire médiatique du portrait le plus énigmatique au monde.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+
+## Représenter l'histoire : les régimes d'objectivité du documentaire
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir2.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### DOCUMENTAIRE, adj.
+A. Usuel. Qui a le caractère, l'intérêt d'un document; qui offre une source de documents. Importance, valeur documentaire.
+
+CIN. Film documentaire et p. ell. en emploi subst. masc. documentaire. Film, généralement de court ou moyen métrage, à caractère informatif ou didactique, présentant des documents authentiques sur un secteur de la vie ou de l'activité humaine, ou sur le monde naturel. Anton. film de fiction. "*Un film documentaire non sans intérêt : la vie des bêtes au fond d'un aquarium*" (DUHAMEL, Journal Salav., 1927, p. 138).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir3.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Le documentaire et les media
+* genre cinématographique (information, histoire, propagande...)
+* genre télévisuel (divertissement grand public)
+* *vs* fiction ?
+
+>film de caractère didactique ou informatif qui vise principalement à restituer les apparences de la réalité. (Vincent Pinel, _Dictionnaire technique du cinéma_)
+
+
+===
+
+le documentaire — tel un document administratif — est présenté comme une preuve de l’existence d’un phénomène, technique, sociétal (humain ou animal), ou historique, dont il veut établir une description minutieuse, voire en tenter l’explication.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/extraitnanuk.mp4" data-background-size="contain" -->
+
+
+===
+Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé par Robert Flaherty, sorti en 1922. Ce film est l'un des premiers films documentaires de long métrage1,2.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### De l'objectivité à l'objectivation
+* Une définition médiatique de l'objectivité
+* Des codes génériques, formels de la vraisemblance
+* La possibilité du pastiche
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Une médiation par l'image
+* Des effets de montage
+* Des mises en scène
+* Du son (voix, musique)
+  - Tous ces éléments participent à objectiver le réel
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Documentaire ou fiction ?
+>Aux deux bouts de la ligne, il y a toujours un peu de fiction dans le documentaire (ne serait-ce que la transformation du temps en récit par l'image), et un peu de documentaire dans la fiction. (François Niney, _Le Documentaire et ses faux-semblants_)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Exercice : les régimes de vérité du documentaire
+* _Apocalypse, La première guerre mondiale_, narration: Mathieu Kassovitz (France Télévisions, TV5 Québec Canada, National Geographic Channels, American Heroes Channel, TVO, Knowledge Network, RTBF, Planète +) (**2014**)
+* _Nietzsche : entre génie et démence_, ARTE, documentaire de de Hedwig Schmutte (**2020**)
+* _C'est arrivé près de chez vous_, de Rémy Belvaux, André Bonzel et (avec) Benoît Poelvoorde (**1992**)
+* Documentaire, reconstitution, documenteur (mockumentary)?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/Apocalypse_la_Premiere_Guerre_MondialeEXTRAIT.mp4" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<iframe width="682" height="384" src="https://www.youtube.com/embed/25uLlN5uNF0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-video="img/extraitCAPCV.mp4" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+## Conclusion
+Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en fonction du media qui le construisent. L'objectivité, en soit, n'est pas un accès direct au réel, mais une médiation du réel dont les conventions sont tacitement acceptée par tous. Ces conventions évoluent en même temps que les formes médiatiques (notamment). L'objectivité médiatique est donc toute relative.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/post.png" data-background-size="contain" -->
+
+
+## Le docufiction à l'époque des réseaux sociaux
+Écrire l'Histoire en passant par l'histoire : le cas WalledInBerlin
