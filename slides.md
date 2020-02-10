@@ -139,7 +139,7 @@ Benjamin s’attache ensuite à définir ces nouveaux arts que sont la photograp
 
 ### Duchamp *LHOOQ*
 * Un *Ready made*, "objet trouvé" (carte postale)
-* Un questionnement de l'aura de l'oeuvre d'art - objet de consommation courante
+* Un questionnement de l'aura de l'oeuvre d'art - objet de consommation courante, et de sa sacralisation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/JocondeCampagne.jpg" data-background-size="contain" -->
@@ -151,7 +151,7 @@ Benjamin s’attache ensuite à définir ces nouveaux arts que sont la photograp
 
 ### Campagne ligue contre le cancer
 * Un détournement jouant sur l'intégrité "physique" de l'oeuvre et de la figure qu'elle représente : la *valeur* de l'oeuvre, au-delà de ce qu'elle représente (dans sa dimension référentielle)
-* Une métaphore du corps malade
+* Une métaphore du corps malade - des canons de la beauté, ce qui "reste" et nous définit ontologiquement
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
@@ -170,8 +170,8 @@ Benjamin s’attache ensuite à définir ces nouveaux arts que sont la photograp
 <!-- .slide: class="hover" -->
 
 ### Georges Sand
-* Une ekphrasis (figure décrivant une oeuvre picturale)
-* Un texte qui interroge la célébrité de la Joconde
+* Une ekphrasis (figure décrivant une oeuvre picturale) - une remédiation !
+* Un texte qui interroge la célébrité de la Joconde, sa dimension "Visuelle" (vs textuelle)
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -200,7 +200,7 @@ l'original a pu être perçu, en négatif, comme incarnation de l'unique, de la 
 vs le disque), de la distance maximum par rapport aux conditions réelles d'appropriation par la reproduction (2). Il est probable donc que l'invention de la photographie a fortement participé — parmi d'autres facteurs — à cette sacralisation de la peinture caractéristique de l'époque moderne. (Nathalie Heinich, L'aura de Walter Benjamin,
 Note sur "L'œuvre d'art à l'ère de sa reproductibilité technique")
 
-<!-- .element: style="font-size:1.8rem" -->
+<!-- .element: style="font-size:1.6rem" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
