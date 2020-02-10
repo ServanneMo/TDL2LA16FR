@@ -218,6 +218,8 @@ La Joconde est certainement le tableau le plus connu au monde ; il a été peint
 ### Représenter, médier = construire l'oeuvre !
 Toutes ces représentations, ces détournement, participent à faire de la Joconde l'oeuvre la plus célèbre au monde, qui incarne successivement la France et son histoire, la beauté, le mystère, l'Art. La Joconde est en quelque sorte devenue un lieu commun. Sa reproduction, diffusée en masse, s’est substituée à l’original pour s'imposer dans notre inconscient collectif, avec un ensemble de connotations. Voir la Joconde "en vrai", au Louvre, ce n'est plus faire cette expérience authentique décrite par Benjamin: c'est vérifier ou confronter un imaginaire médiatique du portrait le plus énigmatique au monde.
 
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
 
@@ -231,6 +233,8 @@ Toutes ces représentations, ces détournement, participent à faire de la Jocon
 A. Usuel. Qui a le caractère, l'intérêt d'un document; qui offre une source de documents. Importance, valeur documentaire.
 
 CIN. Film documentaire et p. ell. en emploi subst. masc. documentaire. Film, généralement de court ou moyen métrage, à caractère informatif ou didactique, présentant des documents authentiques sur un secteur de la vie ou de l'activité humaine, ou sur le monde naturel. Anton. film de fiction. "*Un film documentaire non sans intérêt : la vie des bêtes au fond d'un aquarium*" (DUHAMEL, Journal Salav., 1927, p. 138).
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bachir3.jpg" data-background-size="contain" -->
@@ -257,15 +261,20 @@ le documentaire — tel un document administratif — est présenté comme une p
 Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé par Robert Flaherty, sorti en 1922. Ce film est l'un des premiers films documentaires de long métrage1,2.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ### Problématiques du documentaire
 * Une typologie complexe: non fiction, reconstitution, docudrama, documentaire romancé, docufiction, documenteur (mockumentary), etc.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
 * Qu'est-ce qu'un documentaire ? Est-ce certains contenus (images, sons, etc.) ont une valeur *ontologique* documentaire ? Ou est-ce que le documentaire n'est pas finalement aussi une construction médiatique ?
 
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ### De l'objectivité à l'objectivation
@@ -290,15 +299,29 @@ Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé 
 ### Documentaire ou fiction ?
 >Aux deux bouts de la ligne, il y a toujours un peu de fiction dans le documentaire (ne serait-ce que la transformation du temps en récit par l'image), et un peu de documentaire dans la fiction. (François Niney, _Le Documentaire et ses faux-semblants_)
 
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ### Exercice : les régimes de vérité du documentaire
 * _Apocalypse, La première guerre mondiale_, narration: Mathieu Kassovitz (France Télévisions, TV5 Québec Canada, National Geographic Channels, American Heroes Channel, TVO, Knowledge Network, RTBF, Planète +) (**2014**)
+
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
+
 * _Nietzsche : entre génie et démence_, ARTE, documentaire de de Hedwig Schmutte (**2020**)
+
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
+
 * _C'est arrivé près de chez vous_, de Rémy Belvaux, André Bonzel et (avec) Benoît Poelvoorde (**1992**)
+
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
+
 * Documentaire, reconstitution, documenteur (mockumentary)?
+
+<!-- .element: style="font-size:1.5rem; text-align:center" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/Apocalypse_la_Premiere_Guerre_MondialeEXTRAIT.mp4" data-background-size="contain" -->
@@ -316,6 +339,9 @@ Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé 
 
 ## Conclusion
 Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en fonction du media qui le construisent. L'objectivité, en soit, n'est pas un accès direct au réel, mais une médiation du réel dont les conventions sont tacitement acceptée par tous. Ces conventions évoluent en même temps que les formes médiatiques (notamment). L'objectivité médiatique est donc toute relative. Il n'y a pas de statut ontologique pur du document, ni même du genre documentaire. Construction médiatique, discursive, institutionnelle, le documentaire porte des conceptions de l'histoire, de la vérité, qui finissent par être intégrées par le public.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/post.png" data-background-size="contain" -->
