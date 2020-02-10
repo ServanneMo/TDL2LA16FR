@@ -216,7 +216,7 @@ La Joconde est certainement le tableau le plus connu au monde ; il a été peint
 <!-- .slide: class="hover" -->
 
 ### Représenter, médier = construire l'oeuvre !
-Toutes ces représentations, ces détournement, participent à faire de la Joconde l'oeuvre la plus célèbre au monde, qui incarne successivement la France et son histoire, la beauté, le mystère, l'Art. La Joconde est en quelque sorte devenue un lieu commun. Sa reproduction, diffusée en masse, s’est substituée à l’original pour s'imposer dans notre inconscient collectif, avec un ensemble de connotations. Voir la Joconde "en vrai", au Louvre, ce n'est plus faire cette expérience authentique décrite par Benjamin: c'est vérifier ou confronter un imaginaire médiatique du portrait le plus énigmatique au monde.
+Toutes ces représentations, ces détournements, participent à faire de la Joconde l'oeuvre la plus célèbre au monde, qui incarne successivement la France et son histoire, la beauté, le mystère, l'Art. La Joconde est en quelque sorte devenue un lieu commun. Sa reproduction, diffusée en masse, s’est substituée à l’original pour s'imposer dans notre inconscient collectif, avec un ensemble de connotations. Voir la Joconde "en vrai", au Louvre, ce n'est plus faire cette expérience authentique décrite par Benjamin: c'est vérifier ou confronter un imaginaire médiatique du portrait le plus énigmatique au monde.
 
 <!-- .element: style="font-size:1.8rem; text-align:center" -->
 
