@@ -10,9 +10,18 @@
 ![WTFPL](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/WTFPL_logo.svg/280px-WTFPL_logo.svg.png) <!-- .element: class="logo" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Info ou infox ?
+* Comment distinguer la nouvelle parodique de la fausse nouvelle ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/post.png" data-background-size="contain" -->
-
-
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/post2.png" data-background-size="contain" -->
@@ -23,6 +32,13 @@
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Gorafi.png" data-background-size="contain" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Quelques éléments typologiques
+* La parodie et le pastiche : une écriture du détournement
+* L'intention : faire rire ou manipuler
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
@@ -334,6 +350,113 @@ Nanouk l'Esquimau (Nanook of the North) est un film franco-américain réalisé 
 <!-- .slide: data-background-video="img/extraitCAPCV.mp4" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Le documentaire : "pour de vrai" ?
+
+* Que "prouve" une image ?
+* Un genre hors de toute représentation ? En prise directe avec le réel ?
+* La fiction exclue-t-elle le documentaire ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/apocalypse.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+## _Apocalypse_ : que prouve l'image ?
+
+* Un documentaire composé d'images d'archives colorisées
+* Commentaire en voix off assuré par un acteur grand public
+* Un montage qui scénarise le passé dans une perspective dramatique
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/apocalypseCritique.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/apocalypse.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+
+>Les images nous rendent l’histoire visible. Elles assument un rôle crucial dans notre façon de comprendre ce qui s’est passé, ce qui se passe autour de nous. Un rôle crucial, cela veut dire : à la croisée des chemins, donc pour le meilleur ou pour le pire. C’est en cela que les images – y compris les images du passé – sont toujours des objets politiques et, même, des actes politiques : des prises de position. (Georges Didi-Huberman)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/apocalypse.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+>La série télévisée Apocalypse nous rend «visibles» un certain nombre de documents relatifs à la Seconde Guerre mondiale. Nous les rend-elle regardables, ­«lisibles», pensables, compréhensibles pour autant ? Quelle est donc sa position ? Les réalisateurs, les producteurs et les directeurs de programme se sont ­contentés d’adopter une posture typique du monde commercial, l’autocélébration : projet «pharaonique», émission «miracle», «révélation» de l’histoire… On a remonté des archives visuelles en leur restituant, dit-on, «une qualité d’image tout simplement époustouflante ! De quoi convaincre tout le monde !» ( dixit Daniel Costelle, l’auteur du commentaire). La chaîne de ­télévision, de son côté, a réussi la prouesse de transformer une «commémoration» – le soixante-dixième anniversaire du déclenchement de la guerre – en cet «événement» nommé prime time. (Georges Didi-Huberman)
+
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/apocalypse.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### L'image d'archive et le montage
+* De l'instantané à la pose (cf. Niney)
+
+>François Montpellier, le technicien de colorisation d’ Apocalypse , admet lui-même que son traitement des images consiste, je le cite, à «unifier, dans une même continuité visuelle, des documents provenant parfois de sources différentes ». Mais la continuité visuelle n’est qu’un choix esthétique et narratif parfaitement ­arbitraire, tous les monteurs le savent bien. La véritable histoire, quant à elle, n’est faite que de discon­tinuités, ne serait-ce que parce qu’elle a été regardée, vécue, enregistrée selon des points différents. ­Apocalypse, au contraire, veut nous faire croire qu’un seul ­cinéaste, avec le même sens des couleurs, aurait tout vu à la fois en tous les points du globe.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/apocalypse.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+
+>C’est sans doute ainsi que l’on veut «carrément séduire un jeune public». C’est ainsi que le «jeune» spectateur en aura plein les yeux. En mettre plein les yeux : c’est le contraire exactement de donner à voir. Mais l’appareil télévisuel, nous en faisons l’expérience chaque jour, fonctionne à la surenchère et à l’autosatisfaction : nous avons réussi à placer huit cents plans par épisode, nous avons reconstitué les couleurs, nous avons ajouté les sons absents des images originales… Autant dire que les documents de l’histoire deviennent des confettis dans un montage qui veut ressembler à un feu d’artifice d’images. (Georges Didi-Huberman)
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/maxresdefault.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### _Nietzsche : entre génie et démence_ ARTE : une _représentation_ documentaire ?
+* Une reconstitution - mise en scène de photographies d'archives : feint / fictif / fictionnel ?
+* Quels effets opère la reconstitution sur le spectateur ?
+* Comment interpréter les multiples changements entre les régimes de vérité de l'image : fiction/reconstitution; archive ; documents et interview contemporains ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cestarrive.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+
+### C'est arrivé près de chez vous : pour de faux ?
+
+Un documentaire parodique (*mockumentary* en anglais) est un film ou un spectacle télévisé utilisant la forme du documentaire pour présenter des évènements fictifs afin de réaliser un effet parodique. Le but du documentaire parodique est d'analyser ou commenter l'actualité en utilisant la fiction, ou de parodier la forme du documentaire en elle-même. Selon le terme forgé par Agnès Varda, maîtresse du genre, le documentaire parodique peut également être désigné par le mot-valise documenteur.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cestarrive.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Les "marques" du documentaire parodique
+* Prises de vues : entre l'instantané et la vue posée (questions/réponses)
+* Une dimension "Meta" (metalepses de plus en plus prégnantes au  fur et à mesure que progresse le film)
+* Un sujet "réel" au traitement invraisemblable (peut-on tout documenter ?)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cestarrive.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### La fiction est-elle mensonge ?
+* Valeur heuristique de la fiction
+* Un documenteur qui dénonce le voyeurisme de la mode médiatique documentaire (vers une télé-réalité)
+* Dans le documenteur : toujours chercher l'intention ! Le documenteur, comme le documentaire, vient instruire. Il a une valeur heuristique et politique !
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/440px-Nanook_of_the_north.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Que signifie documentaire ?
+* Le documentaire est un genre (cinématographique, télévisuel, etc.) qui obéit à des règles formelles simulant la vraisemblance et l'objectivité
+* Le documentaire se démarque par une intention didactique : son objectif est d'enseigner, de faire connaître quelque chose (à distinguer du voyeurisme)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/bachir.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
@@ -344,8 +467,47 @@ Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/post.png" data-background-size="contain" -->
-
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
 
 ## Le docufiction à l'époque des réseaux sociaux
 Écrire l'Histoire en passant par l'histoire : le cas WalledInBerlin
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### _Walled In Berlin_, de Marguerite Boutrolle et Joffrey Lavigne
+
+>Nous sommes en 1962. Le Mur de Berlin coupe la capitale allemande en deux depuis maintenant un an. Willi, un apprenti tailleur réquisitionné pour être garde-frontière sur le mur, Marienneta, une résistante autrichienne et Dorit, une mère de deux enfants qui tentent de fuir la RDA, appréhendent chacun à leur manière la division. Entre la peur de tirer sur un fugitif, la crainte de se faire arrêter ou l’effroi de voir ses enfants se faire tuer, Walled in Berlin, un docu-fiction bientôt diffusé sur Instagram, retrace, en bande dessinée, la vie de ces Berlinois.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### _Le partage du sensible_, Jacques Rancière
+* Philosophie de l'art
+* La fiction s’oppose-t-elle au réel comme le faux s’oppose au vrai ?
+* Fictionner : un néologisme pour une heuristique documentaire
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Les paradoxes de la narration dans le docufiction
+* Documentaire / *docere* (enseigner)
+* Fiction / *fingere* (façonner)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### 1. Dessinez votre grille d’analyse
+* Quels sont les trois principaux niveaux formels sur lesquels se déploie le docufiction _WalledInBerlin_ ?
+    * qu’est-ce qui, selon vous, fait l’intérêt et l’originalité de cet objet ? Que lisez-vous ? Comment lisez-vous ? Sur quels supports ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### 5W+1 - Qui, quoi, comment, où, quand, pourquoi ?
+Ciblez quelques questions précises en fonction des trois axes identifiés
