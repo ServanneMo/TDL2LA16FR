@@ -468,6 +468,8 @@ Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
 
 ## Le docufiction à l'époque des réseaux sociaux
 Écrire l'Histoire en passant par l'histoire : le cas WalledInBerlin
@@ -626,7 +628,12 @@ Instagram permet une publication hybride qui distingue les niveaux régimes de v
 ### Dispositif
 >un ensemble résolument hétérogène comportant des discours, des institutions, des aménagements architecturaux, des décisions réglementaires, des lois, des mesures administratives, des énoncés scientifiques, des propositions philosophiques, morales, philanthropiques ; bref, du dit aussi bien que du non-dit. (Foucault)
 
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
 >tout ce qui a, d’une manière ou une autre, la capacité de capturer, d’orienter, de déterminer, d’intercepter, de modeler, de contrôler et d’assurer les gestes, les conduites, les opinions et les discours des êtres vivants. (Agamben)
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
 
 ===
 le dispositif foucaldien est une combinaison de relations découlant de rencontres d’éléments, de parties de natures diverses, discursives et non discursives, humaines et non humaines, servant à isoler, à mesurer, à surveiller les sujets-corps inscrits à l’intérieur d’un champ d’observation.
