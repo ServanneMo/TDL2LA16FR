@@ -480,6 +480,9 @@ Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en 
 
 >Nous sommes en 1962. Le Mur de Berlin coupe la capitale allemande en deux depuis maintenant un an. Willi, un apprenti tailleur réquisitionné pour être garde-frontière sur le mur, Marienneta, une résistante autrichienne et Dorit, une mère de deux enfants qui tentent de fuir la RDA, appréhendent chacun à leur manière la division. Entre la peur de tirer sur un fugitif, la crainte de se faire arrêter ou l’effroi de voir ses enfants se faire tuer, Walled in Berlin, un docu-fiction bientôt diffusé sur Instagram, retrace, en bande dessinée, la vie de ces Berlinois.
 
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
@@ -493,9 +496,61 @@ Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en 
 <!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
+### Les régimes représentatifs de l'art
+* régime éthique (inspiré de Platon), ontologique, où l’art n’est pas vraiment de l’art mais s’inscrit dans un rapport religieux. Ex : une statue est considérée comme une image de la divinité.
+* régime représentatif (inspiré d’Aristote). Ex : une statue est jugée selon sa vraisemblance ou son expressivité, elle doit être conforme à une idée adéquate, aux canons de la représentation, ou à un degré de perfection technique.
+* régime esthétique de l’art, né de la modernité, dépend d'une certaine forme d'appréhension sensible. Le régime esthétique défend l’indistinction de l’art et de la vie, où la politique active et informe le spectateur pour faire de lui un acteur communautaire.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
+===
+
+régime éthique (inspiré de Platon), ontologique, où l’art n’est pas vraiment de l’art mais s’inscrit dans un rapport religieux. Par exemple quand une statue est considérée comme une image de la divinité. Il ne s'agit pas à proprement parler d'art. La statue est jugée en fonction de sa vérité intrinsèque et de la place qu'elle occupe dans la collectivité.
+
+régime représentatif (inspiré d’Aristote). Notre même statue est jugée selon sa vraisemblance ou son expressivité. La forme donnée à la matière brute doit être conforme à une idée adéquate, aux canons de la représentation, ou à un degré de perfection technique.
+
+régime esthétique de l’art, né de la modernité, dépend d'une certaine forme d'appréhension sensible. Voir cours semaine dernière sur l’espace de la réception. Tandis que le régime représentatif s’inscrit dans une logique de cause à effet où la représentation affecte le spectateur passif et ignorant, le régime esthétique défend l’indistinction de l’art et de la vie, où la politique active et informe le spectateur pour faire de lui un acteur communautaire.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### "Le réel doit être fictionné pour être pensé"
+* Fictionner afin de créer « des effets réels, plutôt que d’être des reflets du réel »
+>Il ne s'agit pas de dire que tout est fiction. Il s'agit de constater que la fiction de l'âge esthétique a défini des modèles de connexion entre présentation de faits et forme d'intelligibilité qui brouillent la frontière entre raison des fait et raison de la fiction.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
+===
+
+Aristote, dans la Poétique, proclame que la mimesis poétique n’est pas imitation, ou fabrication d’un simulacre, mais un jeu de savoirs. « Feindre, ce n’est pas proposer des leurres, c’est élaborer des structures intelligibles. » [2] La poésie, en tant qu’agencement entre des actes, offrirait une logique causale à des événements empiriques désordonnés, est se trouverait alors supérieure à l’histoire. Jacques Rancière, dans son ouvrage Partage du sensible, esthétique et politique, soulève qu’aujourd’hui, « la révolution esthétique bouleverse les choses : le témoignage et la fiction relève d’un même régime de sens. »[3] Si le réel et la fiction font aujourd’hui parti du même régime de sens, la fiction cependant semble être une forme de trame narrative, de connexion, nous permettant de penser à l’intérieur d’une lecture de la réalité. François Jost appuie cette thèse lorsqu’il affirme qu’ « à la représentation du monde, la fiction ajoute une construction » [4] Rancière insiste alors par cette phrase percutante : « Le réel doit être fictionné pour être pensé. »[5]
+
+Or l’art nous parait être une de ces manières de penser le réel, en le fonctionnalisant, en élaborant des structures intelligibles qui nous permettent de construire notre pensée.
+
+Ainsi, si les « tactiques de la fiction » s’opposent aux « stratégies du réel », ce serait en cela que la stratégie est le mode d’activité propre aux décideurs, et le réel une suite désordonnée de faits empiriques. Au contraire, la fiction s’introduit dans les failles, afin de penser ce réel.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
 ### Les paradoxes de la narration dans le docufiction
 * Documentaire / *docere* (enseigner)
 * Fiction / *fingere* (façonner)
+
+===
+
+Le partage documentaire/fiction est non-pertinent (d’autres distinctions sont tout autant déterminantes : court-métrage vs long-métrage, film institutionnel vs film d’auteur...) mais socialement institué. On ne peut donc y échapper.
+
+Par le passé nous avons assisté tantôt à des distinctions fortes (le “docu“ c’était ce qui passait en première partie d’une séance de cinéma) ; tantôt à des mélanges de genres (les émissions de plateaux TV qui mixent allègrement divertissement, information, publicité...).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### La critique du docufiction
+>Cette version rénovée des "actualités reconstituées" à la Mélies apparaît plus hypocrite (et moins féerique) que l'originale dans la mesure où il ne dit pas trop ce qui est reconstitué et ce qui est supposément authentique, où s'arrête le fait et où commence la (re)mise en scène ? [...] Ce qui compte ce n'est pas le geste comme savoir-faire ou le geste comme savoir-vivre mais l'action sensationnelle au sens de "film d'action".
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
@@ -509,5 +564,79 @@ Le documentaire est un _genre_ dont les codes formels et narratifs évoluent en 
 <!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
+### 2. Problématiser le docufiction : plusieurs niveaux d'analyse
+
+* Forme narrative : à la frontière réel/imaginaire, Histoire/histoire, etc.
+    * Problème éthique ? (critique de Niney)
+* Forme médiatique : un modèle hybride, entre bande dessinée, photographie, archives
+    * Comment distinguer les formes sans les "lisser" (cf. critique Apocalypse)
+* Forme éditoriale : le réseau social, une publication ouverte, sur un "profil"
+    * Un dispositif hybride
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Problématiques (propositions)
+* Parce qu'il offre un espace capable de conjuguer une double fonction didactique et divertissante, le dispositif documentaire propre au réseau social n'est-il pas capable de résoudre les apories du "genre" docu-fictif ?
+
+* Partagé entre Histoire et histoires, le docufiction ne parvient-il pas à trouver une nouvelle force heuristique sur les dispositifs numériques tels que les réseaux sociaux.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
 ### 5W+1 - Qui, quoi, comment, où, quand, pourquoi ?
 Ciblez quelques questions précises en fonction des trois axes identifiés
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Forme narrative : des "histoires" dans la grande Histoire
+Trois histoires autour de trois personnages dont on suit les aventures romanesques (péripéties, histoires d'amour, de jalousie, danger). Des personnages qui servent de fenêtre sur l'histoire du mur, et qui sont inspirés de figures historiques réelles. Fonction divertissante, investissement de la loi de proximité (notamment affective). Effet d'incarnation.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Forme médiatique : une hybridation textuelle et visuelle
+Investissement de la relation texte / image, textuel / visuel. Bande dessinée : un dessin qui crée parfois des fondus avec des photos d'archives, de manière à créer des encadrements métadiégétiques et des passerelles vers le régime de la fiction. Le dessin est relativement impressionniste, voire abstrait. Il joue d'abord sur les sensations des personnages : cela permet de mieux rendre compte de certains phénomèmes complexes tels que le *mauerkrankheit*.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Forme éditoriale : le dispositif heuristique du réseau social
+Instagram permet une publication hybride qui distingue les niveaux régimes de vérité ou de narration (publication vs story historique). Le docu-fiction est ainsi formellement construit de manière à clairement indiquer quels éléments relèvent de quel régime. Réseau social et "followers": principe de fédération d'une communauté qui vient participer au récit. Dimension feuilletonesque, par ailleurs, qui accentue l'effet thriller. Dimension hypertextuelle permettant de naviguer, approfondir sa lecture / visionnage.
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Dispositif
+>un ensemble résolument hétérogène comportant des discours, des institutions, des aménagements architecturaux, des décisions réglementaires, des lois, des mesures administratives, des énoncés scientifiques, des propositions philosophiques, morales, philanthropiques ; bref, du dit aussi bien que du non-dit. (Foucault)
+
+>tout ce qui a, d’une manière ou une autre, la capacité de capturer, d’orienter, de déterminer, d’intercepter, de modeler, de contrôler et d’assurer les gestes, les conduites, les opinions et les discours des êtres vivants. (Agamben)
+
+===
+le dispositif foucaldien est une combinaison de relations découlant de rencontres d’éléments, de parties de natures diverses, discursives et non discursives, humaines et non humaines, servant à isoler, à mesurer, à surveiller les sujets-corps inscrits à l’intérieur d’un champ d’observation.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/walledIn.jpeg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+### Conclusion
+Un documentaire n'est nullement une restitution du réel, encore moins une “fenêtre ouverte“ sur le monde. Un documentaire est une représentation du réel à la fois narrative, médiatique, éditoriale. Une proposition de médiation et d'interprétation du monde. Gérard Leblanc, spécialiste du cinéma, parle de "démarche documentaire", "qui fait travailler un certain type d’imaginaire qui est soumis à l’épreuve du réel". On parlera aussi d'un dispositif documentaire permettant de *fictionner* le réel. Avec les media numériques, et en particulier les réseaux sociaux, se met en place un dispositif heuristique et performatif capable d'accomplir cet action de "fictionnage".
+
+
+<!-- .element: style="font-size:1.8rem; text-align:center" -->
