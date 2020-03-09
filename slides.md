@@ -647,3 +647,61 @@ Un documentaire n'est nullement une restitution du réel, encore moins une “fe
 
 
 <!-- .element: style="font-size:1.8rem; text-align:center" -->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/170847437-288-k95947.jpg" data-background-size="contain" -->
+
+## L'auteur à l'ère numérique : la construction de l'autorité en ligne
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/170847437-288-k95947.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+## "L'auteur et moi", Borges
+
+Exercice 1: Identifiez les instances auctoriales à l'oeuvre dans ce texte. D'où tirent-elles leur origine ? Quelles relations entretiennent-elles, selon Borges ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/170847437-288-k95947.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+## Exercice 2. François Bon : entre institutionnalisation éditoriale et auto-institution
+
+* Doc 1 : La notice François Bon sur le site de ses éditeurs (Minuit, Albin Michel)
+* Doc 2 : La biographie de l'écrivain sur le _Tiers Livre_
+* Doc 3 : Profil Twitter de François Bon
+* Doc 4 : Une entrevue avec Emmanuel Guez
+* Doc 5 : Le texte "Ça y est, je ne suis plus auteur", publié sur le Tiers-Livre
+* Doc 6 : Une vidéo extraite de la chaîne Youtube de l'écrivain
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/170847437-288-k95947.jpg" data-background-size="contain" -->
+<!-- .slide: class="hover" -->
+
+- Qui parle à qui ? Avec quelle intention ?  
+- Quelle forme médiatique est utilisée ?  
+- Quelle conception, quelle image de l'écrivain se dessine ?  
+- Quelle légitimité accorder au contenu ? D'où ce contenu tire-t-il sa légitimité ?  
+- Quelle relation peut-on établir entre la fonction éditoriale et la fonction auctoriale ?  
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/minuitBon.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tierLivreBon.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BonTwitter.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/MCD.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/agessa.jpg" data-background-size="contain" -->
+
+* [Lire en ligne](https://www.tierslivre.net/spip/spip.php?article4777)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/youtubeFBon.png" data-background-size="contain" -->
+
+* [En ligne](https://www.youtube.com/user/tierslivre)
