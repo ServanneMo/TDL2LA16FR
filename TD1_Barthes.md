@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
@@ -9,42 +9,44 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Avant la lecture... contextualiser le texte
 * Qui est Roland Barthes ?
-* À quelle discipline et quel courant théorique le rattachez-vous ?
+* À quelle discipline et quel(s) courant(s) théorique(s) le rattachez-vous ?
 * Quand et où le texte "La mort de l'auteur" a-t-il été publié ?
 * Que vous évoque le titre ?
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Pendant la lecture... apprivoisez le texte
 * Sur une échelle de 1 à 10, comment évaluez-vous la difficulté de ce texte ? Pourquoi ?
-* Quels termes ou concepts vous posent problème ?
+* Quels termes ou concepts vous posent problème ? Listez-les au fil de la lecture
 * Quel est le principal concept travaillé par Barthes ?
+* Quels sont les exemples cités qui vous sont familiers ?
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Après la lecture... comprendre le texte et en débattre
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### "Qui parle ainsi ?"
 - L'auteur / l'Auteur / l'*auteur*
 - Le médiateur (la voix vs l'écriture)
 - Le scripteur
+- Personne...
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### auteur, Auteur, *auteur*...
@@ -54,40 +56,50 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-video="img/aristocratieLecteur.mp4" data-background-size="contain" -->
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
-
-### Les médiations du texte : écriture, Shaman, etc.  
->dès qu'un fait est raconté, à des fins intransitives, et non plus pour agir directement sur le réel [...] ce décrochage se produit, la voix perd son origine, l'auteur entre dans sa propre mort, l'écriture commence. Cependant, le sentiment de ce phénomène a été variable ; dans les sociétés ethnographiques, le récit n'est jamais pris en charge par une personne, mais par un médiateur, shaman ou récitant, dont on peut à la rigueur admirer la "performance, mais jamais le "génie".
+<!-- .slide: data-background-image="img/ferante.png" data-background-size="contain" -->
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >L'image de la littérature que l'on peut trouver dans la culture courante est tyranniquement centrée sur l'auteur, sa personne, son histoire, ses goûts, ses passions; la critique consiste encore, la plupart du temps, a dire que l'oeuvre de Baudelaire, c'est l'échec de l'homme Baudelaire, celle de Van Gogh, c'est sa folie, celle de Tchaikowsky, c'est son vice : l' explication de l'oeuvre est toujours cherchée du côté de celle qui l'a produite, comme si, à travers l'allégorie plus ou moins transparente de la fiction, c'était toujours finalement la voix d'une seule et même personne, l'auteur, qui livrait sa "confidence". (Barthes, "La mort de l'auteur", 1968)
 
 <!-- .element: style="font-size:1.8rem" -->
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Les médiations du texte : écriture, Shaman, etc.  
+>dès qu'un fait est raconté, à des fins intransitives, et non plus pour agir directement sur le réel [...] ce décrochage se produit, la voix perd son origine, l'auteur entre dans sa propre mort, l'écriture commence. Cependant, le sentiment de ce phénomène a été variable ; dans les sociétés ethnographiques, le récit n'est jamais pris en charge par une personne, mais par un médiateur, shaman ou récitant, dont on peut à la rigueur admirer la "performance, mais jamais le "génie". (Barthes, "La mort de l'auteur", 1968)
+
+
+<!-- .element: style="font-size:1.8rem" -->
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: class="hover"-->
+
+### Le scripteur et l'intertexte
+
+>un texte n'est pas fait d'une ligne de mots, dégageant un sens unique, en quelque sorte théologique (qui serait le message de l'Auteur-Dieu), mais un espace à dimensions multiples, où se marient et se contestent des écritures variées, dont aucune n'est originelle : le texte est un foyer de citations, issues des mille foyers de la culture. [...] succédant à l'Auteur, le scripteur n'a plus en lui passions, humeurs, sentiments,, impressions, mais cet immense dictionnaire où il puise une écriture qui ne peut connaître aucun arrêt. (Barthes, "La mort de l'auteur", 1968)
+
+
+
+<!-- .element: style="font-size:1.8rem" -->
 
 ===
 
-
+le lecteur ne fait rien d’autre que d’être au fond le scripteur virtuel de toutes les écritures qui sont dans le texte.
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Quelques notions clés à retenir...
@@ -121,11 +133,11 @@ L'Auteur une fois éloigné, la prétention de « déchiffrer » un texte devien
 Pb : jusqu'où l'oeuvre est-elle "ouverte" ? Une fois qu'on a tué l'auteur, il faut regarder de plus près le lecteur...
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/dsl-n-2-1325.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Conclusion
-La "mort de l'auteur" procède d'un véritable tournant épistémologique nous entraînant vers les théories de la réception : en liquidant "l'auteur", qu'il invite à ne considérer que comme une construction symbolique, discursive, à la rigueur juridique, Barthes cherche à se défaire de l'empire / emprise d'une interprétation du texte basée sur "l'intention" de l'écrivain, et à plus forte raison sa vie (biographisme). En plaidant pour une conception autonome/ouverte du texte (qui, par son inscription médiatique -- son écriture), il ouvre la voie au lecteur, qui deviendra l'un des principaux acteurs de la Nouvelle critique. Reste à savoir si l'interprétation d'un texte est toujours totalement libre...
+La "mort de l'auteur" témoigne et participe d'un véritable tournant épistémologique nous entraînant vers les théories de la réception : en liquidant "l'auteur", qu'il invite à ne considérer que comme une construction symbolique, discursive, à la rigueur juridique, Barthes cherche à se défaire de l'empire / emprise d'une interprétation du texte basée sur "l'intention" de l'écrivain, et à plus forte raison sa vie (biographisme). En plaidant pour une conception autonome/ouverte du texte (qui, par son inscription médiatique -- son écriture), il ouvre la voie au lecteur, qui deviendra l'un des principaux acteurs de la Nouvelle critique. Reste à savoir si l'interprétation d'un texte est toujours totalement libre...
 
 ===
 
