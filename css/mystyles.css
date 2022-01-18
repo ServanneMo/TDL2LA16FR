@@ -11,8 +11,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #222;
-  background-color: #222; }
+  background: #98BFF8;
+  background-color: #98BFF8; }
 
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
@@ -22,7 +22,7 @@ body {
 
 ::selection {
   color: #fff;
-  background: #bee4fd;
+  background: #98BFF8;
   text-shadow: none; }
 
 .reveal .slides > section,
@@ -295,7 +295,7 @@ body {
 }
 
 .reveal h1, .reveal h2, .reveal h3 {
-  color: #E30800;
+  color: #0D69EF;
   background-color: ghostwhite;
 }
 
@@ -320,7 +320,7 @@ body {
 
 .source {
   color: ghostwhite;
-  background-color: #E30800;
+  background-color: #0D69EF;
   float:right;
   text-align: right;
 }
@@ -331,6 +331,6 @@ p.source {
 
 #instin-studies {
   color:  ghostwhite;
-  background-color: #E30800;
+  background-color: #0D69EF;
 
 }

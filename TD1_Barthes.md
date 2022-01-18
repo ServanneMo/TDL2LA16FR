@@ -1,4 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -8,7 +7,7 @@
 >la naissance du lecteur doit se payer de la mort de l’Auteur...
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -19,7 +18,7 @@
 * Que vous évoque le titre ?
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -29,13 +28,12 @@
 * Quel est le principal concept travaillé par Barthes ?
 * Quels sont les exemples cités qui vous sont familiers ?
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
-<!-- .slide: class="hover"-->
 
 ## Après la lecture... comprendre le texte et en débattre
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -45,7 +43,7 @@
 - Le scripteur
 - Personne...
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -55,15 +53,15 @@
 * Un concept (construction théorique, discursive, juridique, symbolique amenée à évoluer)
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-video="img/aristocratieLecteur.mp4" data-background-size="contain" -->
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/ferante.png" data-background-size="contain" -->
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -71,7 +69,7 @@
 
 <!-- .element: style="font-size:1.8rem" -->
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -81,7 +79,7 @@
 
 <!-- .element: style="font-size:1.8rem" -->
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -98,7 +96,7 @@
 le lecteur ne fait rien d’autre que d’être au fond le scripteur virtuel de toutes les écritures qui sont dans le texte.
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
@@ -132,12 +130,15 @@ L'Auteur une fois éloigné, la prétention de « déchiffrer » un texte devien
 
 Pb : jusqu'où l'oeuvre est-elle "ouverte" ? Une fois qu'on a tué l'auteur, il faut regarder de plus près le lecteur...
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Conclusion
 La "mort de l'auteur" témoigne et participe d'un véritable tournant épistémologique nous entraînant vers les théories de la réception : en liquidant "l'auteur", qu'il invite à ne considérer que comme une construction symbolique, discursive, à la rigueur juridique, Barthes cherche à se défaire de l'empire / emprise d'une interprétation du texte basée sur "l'intention" de l'écrivain, et à plus forte raison sa vie (biographisme). En plaidant pour une conception autonome/ouverte du texte (qui, par son inscription médiatique -- son écriture), il ouvre la voie au lecteur, qui deviendra l'un des principaux acteurs de la Nouvelle critique. Reste à savoir si l'interprétation d'un texte est toujours totalement libre...
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 ===
 
