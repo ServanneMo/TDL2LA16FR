@@ -1,14 +1,15 @@
-<!-- .slide: data-background-image="img/barthes2.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 
-# Liquider l'auteur ? Autour de Roland Barthes
+# Liquider l'auteur ?
+## Autour de Roland Barthes
 
->la naissance du lecteur doit se payer de la mort de l’Auteur...
+*« [L]a naissance du lecteur doit se payer de la mort de l’Auteur... »*
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Avant la lecture... contextualiser le texte
@@ -19,7 +20,7 @@
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Pendant la lecture... apprivoisez le texte
@@ -29,12 +30,12 @@
 * Quels sont les exemples cités qui vous sont familiers ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 
 ## Après la lecture... comprendre le texte et en débattre
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### "Qui parle ainsi ?"
@@ -44,7 +45,7 @@
 - Personne...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/warhol.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### auteur, Auteur, *auteur*...
@@ -62,7 +63,7 @@
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 >L'image de la littérature que l'on peut trouver dans la culture courante est tyranniquement centrée sur l'auteur, sa personne, son histoire, ses goûts, ses passions; la critique consiste encore, la plupart du temps, a dire que l'oeuvre de Baudelaire, c'est l'échec de l'homme Baudelaire, celle de Van Gogh, c'est sa folie, celle de Tchaikowsky, c'est son vice : l' explication de l'oeuvre est toujours cherchée du côté de celle qui l'a produite, comme si, à travers l'allégorie plus ou moins transparente de la fiction, c'était toujours finalement la voix d'une seule et même personne, l'auteur, qui livrait sa "confidence". (Barthes, "La mort de l'auteur", 1968)
@@ -70,7 +71,7 @@
 <!-- .element: style="font-size:1.8rem" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Les médiations du texte : écriture, Shaman, etc.  
@@ -80,7 +81,7 @@
 <!-- .element: style="font-size:1.8rem" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Le scripteur et l'intertexte
@@ -97,7 +98,7 @@ le lecteur ne fait rien d’autre que d’être au fond le scripteur virtuel de 
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Quelques notions clés à retenir...
@@ -131,7 +132,7 @@ L'Auteur une fois éloigné, la prétention de « déchiffrer » un texte devien
 Pb : jusqu'où l'oeuvre est-elle "ouverte" ? Une fois qu'on a tué l'auteur, il faut regarder de plus près le lecteur...
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/couv.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ## Conclusion
