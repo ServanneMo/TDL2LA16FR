@@ -70,15 +70,22 @@
 
 <!-- .element: style="font-size:1.8rem" -->
 
+Source : Barthes, "La mort de l'auteur", 1968
+
+<!-- .element: class="source" -->
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
 <!-- .slide: class="hover"-->
 
 ### Les médiations du texte : écriture, Shaman, etc.  
->dès qu'un fait est raconté, à des fins intransitives, et non plus pour agir directement sur le réel [...] ce décrochage se produit, la voix perd son origine, l'auteur entre dans sa propre mort, l'écriture commence. Cependant, le sentiment de ce phénomène a été variable ; dans les sociétés ethnographiques, le récit n'est jamais pris en charge par une personne, mais par un médiateur, shaman ou récitant, dont on peut à la rigueur admirer la "performance, mais jamais le "génie". (Barthes, "La mort de l'auteur", 1968)
-
+>dès qu'un fait est raconté, à des fins intransitives, et non plus pour agir directement sur le réel [...] ce décrochage se produit, la voix perd son origine, l'auteur entre dans sa propre mort, l'écriture commence. Cependant, le sentiment de ce phénomène a été variable ; dans les sociétés ethnographiques, le récit n'est jamais pris en charge par une personne, mais par un médiateur, shaman ou récitant, dont on peut à la rigueur admirer la "performance, mais jamais le "génie".
 
 <!-- .element: style="font-size:1.8rem" -->
+
+Source : Barthes, "La mort de l'auteur", 1968
+
+<!-- .element: class="source" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/" data-background-size="contain" -->
@@ -86,11 +93,14 @@
 
 ### Le scripteur et l'intertexte
 
->un texte n'est pas fait d'une ligne de mots, dégageant un sens unique, en quelque sorte théologique (qui serait le message de l'Auteur-Dieu), mais un espace à dimensions multiples, où se marient et se contestent des écritures variées, dont aucune n'est originelle : le texte est un foyer de citations, issues des mille foyers de la culture. [...] succédant à l'Auteur, le scripteur n'a plus en lui passions, humeurs, sentiments,, impressions, mais cet immense dictionnaire où il puise une écriture qui ne peut connaître aucun arrêt. (Barthes, "La mort de l'auteur", 1968)
-
+>un texte n'est pas fait d'une ligne de mots, dégageant un sens unique, en quelque sorte théologique (qui serait le message de l'Auteur-Dieu), mais un espace à dimensions multiples, où se marient et se contestent des écritures variées, dont aucune n'est originelle : le texte est un foyer de citations, issues des mille foyers de la culture. [...] succédant à l'Auteur, le scripteur n'a plus en lui passions, humeurs, sentiments,, impressions, mais cet immense dictionnaire où il puise une écriture qui ne peut connaître aucun arrêt.
 
 
 <!-- .element: style="font-size:1.8rem" -->
+
+Source : Barthes, "La mort de l'auteur", 1968
+
+<!-- .element: class="source" -->
 
 ===
 
