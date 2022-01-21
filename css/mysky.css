@@ -317,3 +317,17 @@ p.source {
   word-wrap: break-word;
   background-color: #F46277;
   opacity: 1; }
+
+
+.surligne {
+  margin: 0 0 20px 0;
+  color: #fff;
+  font-family: "Source Sans Pro", Helvetica, sans-serif;
+  font-weight: 600;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-transform: uppercase;
+  text-shadow: none;
+  word-wrap: break-word;
+  background-color: #F9F1FA;
+  opacity: 1; }
