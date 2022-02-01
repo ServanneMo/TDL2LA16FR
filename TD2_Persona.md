@@ -163,6 +163,7 @@ La fiche persona doit créer de l'empathie : on se met à la place de l'usager. 
 
 <!-- .element: class="surligne" -->
 
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/dosto-dosto.png" data-background-size="contain" -->
 
