@@ -2,8 +2,8 @@
 <!-- .slide: class="hover"-->
 
 
-# Les nouvelles mesures de popularité
-## Que valent les avis en ligne ?
+# Évaluer l'évaluation en ligne
+## Que valent les plateformes de critique collaboratives ?
 
 
 ===
