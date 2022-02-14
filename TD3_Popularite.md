@@ -336,14 +336,22 @@ limiterez l’analyse aux visiteur·se·s ayant noté le film 5 étoiles ou 0 é
 
 ===
 
-Lecture consignes => remplir le tableau. Rappel calcul de pourcentages : Rappel : Pourcentage = 100 x Valeur partielle/Valeur
-totale
+Lecture consignes => remplir le tableau. Rappel calcul de pourcentages : Rappel : Pourcentage = 100 x Valeur partielle/Valeur totale
 
-Date de création d’un compte accessible en cliquant sur le profil.
+Exemple, pour les Tuche 4, j'ai accès à 304 critiques au total, dont 39 à 5 étoiles.
+
+donc 100 x 39 = 3900/304 = 12,8% de critiques à 5 étoiles
+
+Et 64 critiques à 0 étoiles
+
+donc 100x64 = 6400 / 304 = 21%
+
+Dans cet exo, il vous faut vous concentrer sur les critiques à 0 et à 5.
+
+
+Note : Date de création d’un compte accessible en cliquant sur le profil.
 
 Attention : la méthodologie proposée par les auteur·rice·s de l’article ne permet pas de déterminer si les différents profils sont authentiques ou pas, ni même d’affirmer avec certitude que la note d’un film a été bidonnée ; elle permet d’identifier un réseau d’indices concordants. Restez donc prudent·e·s dans vos conclusions (les journalistes utilisent le conditionnel par exemple).
-
-Exemple d’un profil douteux => n’a laissé que trois critiques, toutes consacrées aux différents volets des Tuche.
 
 
 
