@@ -196,7 +196,7 @@ Il n’est plus possible de reproduire de larges extraits de critiques professio
 
 L’authenticité de certains avis est régulièrement remise en cause, en lien notamment avec les pressions économiques subies par le site.
 
-
+Lecture de la citation de Schneidermann => l’indépendance de ces films est menacée par les sources principales de leur financement : la publicité et les actionnaires. On assiste ainsi à des controverses similaires à celles qu’on rencontre dans les médias « traditionnels ».
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -205,7 +205,7 @@ L’authenticité de certains avis est régulièrement remise en cause, en lien 
 <!-- .element: style="font-size:1.8rem" -->
 
 
-Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », Libération, 28 févier 2016
+Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », *Libération*, 28 févier 2016
 
 <!-- .element: class="source" -->
 
@@ -217,7 +217,7 @@ déliées. Des anciens du site, sous couvert d'anonymat, ont raconté à l'Obs q
 
 <!-- .element: style="font-size:1.8rem" -->
 
-Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », Libération, 28 févier 2016
+Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », *Libération*, 28 févier 2016
 
 <!-- .element: class="source" -->
 
@@ -229,7 +229,7 @@ Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », Libération, 28 
 
 <!-- .element: style="font-size:1.8rem" -->
 
-Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », Libération, 28 févier 2016
+Daniel Schneidermann, « AlloCiné, fin d’une parenthèse », *Libération*, 28 févier 2016
 
 <!-- .element: class="source" -->
 
@@ -246,7 +246,7 @@ Dans les faits, ces sites présentent plusieurs limites. Dans le cas d’AlloCin
 
 * Qu’est-ce que la rubrique CheckNews ? Comment fonctionne-t-elle ?
 
-* Quels éléments laissent soupçonner que la note du film La vérité si je mens ! Les débuts a été artificiellement maximisée ?
+* Quels éléments laissent soupçonner que la note du film *La vérité si je mens ! Les débuts* a été artificiellement maximisée ?
 
 * Synthétisez la méthodologie mise en place par les auteur·rice·s de l’article pour déterminer si la note est authentique ou non.
 
@@ -281,7 +281,7 @@ Point de départ : question posée par une lectrice à partir d’une vidéo d�
       - date de création des profils qui ont posté des avis à 5 étoiles (« super noteurs »).
       - nombre de critiques postées par ces profils.
 2. Comparaison avec les statistiques des profils qui ont posté des avis entre 0 et 3 étoiles (« mauvais noteurs »). => Sans comparaison, les statistiques sont peu signifiantes.
-3. Comparaison avec un film moins susceptible de susciter des faux avis, un blockbuster américain Le Joker, qui n’a pas besoin d’AlloCiné pour augmenter son audience.
+3. Comparaison avec un film moins susceptible de susciter des faux avis, un blockbuster américain *Le Joker*, qui n’a pas besoin d’AlloCiné pour augmenter son audience.
 4. Consultation de spécialistes de la détection de faux profils pour interpréter les résultats.
 
 <!-- .element: style="font-size:1.8rem" -->
@@ -293,16 +293,28 @@ Point de départ : question posée par une lectrice à partir d’une vidéo d�
 
 ### Quelles sont les différentes pistes explorées par les auteur·rice·s quant à l’origine des faux avis ?
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Quelles sont les différentes pistes explorées par les auteur·rice·s quant à l’origine des faux avis ?
+
+On peut supposer que les faux avis proviennent des parties qui ont un intérêt à ce que le film soit un succès, soit les acteurs du processus de production, de distribution et de communication.
+Les suspects le plus probables : 
+- l’agence de presse (connue pour ses précédents)  
+- la sociétés de production, les Productions du Renard (profils créés au moment de la production de leur précédent film, *Et mon cœur transparent*, sans activité jusqu’à la sortie de *La Vérité si je mens ! Les débuts*)
+
+<!-- .element: style="font-size:1.8rem" -->
+
 
 ===
 
 Pistes = les parties qui ont un intérêt à ce que le film soit un succès, soit les acteurs du processus de production, de distribution et de communication :
-    • L’équipe du site => les journalistes contactent Arnaud Métral, le directeur général de la maison mère d’AlloCiné, qui décline toute responsabilité de l’équipe et tend à minorer le phénomène.
-    • Le distributeur du film, UGC Distribution
-    • Les sociétés de production.
-    • L’agence de presse, Dominique Segall Communication.
+	L’équipe du site => les journalistes contactent Arnaud Métral, le directeur général de la maison mère d’AlloCiné, qui décline toute responsabilité de l’équipe et tend à minorer le phénomène.
+	Le distributeur du film, UGC Distribution
+	Les sociétés de production.
+	L’agence de presse, Dominique Segall Communication.
 
 Suspect le plus probable : l’agence de presse en raison des précédents, ou l’une des sociétés de production, les Productions du Renard, car des profils qui ont été créés au moment de la production de leur précédent film, Et mon cœur transparent, n’ont pas eu d’activité jusqu’à la sortie de La Vérité si je mens ! Les débuts.
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -333,5 +345,49 @@ Attention : la méthodologie proposée par les auteur·rice·s de l’article n
 
 Exemple d’un profil douteux => n’a laissé que trois critiques, toutes consacrées aux différents volets des Tuche.
 
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tuches5.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tuches4.png" data-background-size="contain" -->
+
+===
+
+Pas de grand succès
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/tableauNoteCheck.png" data-background-size="contain" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tuches1.png" data-background-size="contain" -->
+
+===
+
+création le jour même
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tuches2.png" data-background-size="contain" -->
+
+===
+
+Super fan des Tuches ??
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/tuches3.png" data-background-size="contain" -->
+
+
+===
+que des avis positifs
+plutôt bien écrit : prod ou diffuseur ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+## Conclusion
+Les sites participatifs reposent l'idéal de démocratisation et de valorisation de la critique amatrice, qui est mise à égalité avec la critique professionnelle. Mais dans les faits, ces sites présentent plusieurs limites, d'abord induites par le dispositif technique pourtant garant de la participation : la plateforme, en tant que dispositif éditorial contraint, impose des modalités de contribution, donc d'évaluation, qui instaurent des biais difficile à reconnaître, et davantage à maîtriser. L'autre limite procède du caractère éminemment manipulable de données : faux profils, faux avis postés par des parties qui ont tout intérêt à ce que le grand public soit au rendez-vous. Des méthodologies existent pour vérifier la fiabilité des profils et des critiques. Sans être sans failles, ces méthodes fondées sur l'analyse qualitative des profils et des avis permet de nuancer ou d'invalider une opinion d'abord fondée sur une observation quantitative (celle-là même que valorisent les plateformes, qui fondent leurs critiques sur des critères de notation purement quantitatif).
+
+<!-- .element: style="font-size:1.8rem" -->

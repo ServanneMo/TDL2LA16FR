@@ -12,6 +12,10 @@ Comment définiriez-vous ces deux termes ?
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nuage.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### Patrimoine (CNTRL)
 
@@ -188,7 +192,7 @@ En France, les bibliothèques municipales (et la BNF) sont en charge de la conse
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-## Qu'est-ce qu'on patrimonialise ?
+## Qu'est-ce que l'on patrimonialise ?
 * Ce qui est "digne" de conservation ou de restauration
 * Un périmètre fluctuant
 * Des règles discutables (et discutées)
@@ -212,7 +216,7 @@ En France, les bibliothèques municipales (et la BNF) sont en charge de la conse
 ## Pour qui patrimonialise-t-on ?
 * Les générations futures
 * Le grand public
-* Un accès parfois réserver aux experts (chercheurs, historiens, etc.)
+* Un accès parfois réservé aux experts (chercheurs, historiens, etc.)
 
 ===
 
@@ -294,19 +298,129 @@ film Resnais
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Quels sont les objets du patrimoine conservés à la BNF ?
+#### Selon vous, quel est le sens du titre du film "Toute la mémoire du monde" ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Qu'est-ce que le dépôt légal ?
+* Quantitatif => Une collecte présentée comme exhaustive (3 millions de documents par siècle)
+* Qualitatif => Un fonds qui recèle des trésors (la première publication de Rimbaud)
+
+===
+
+La mémoire est présentée de manière ironique comme un fardeau. Resnais insiste sur la quantité exponentielle de documents créés, si bien que nous ne pouvons tout connaître. La Bib vient se substituer à notre mémoire.
+
+À cette présentation quantitative s'ajoute des critères qualitatifs : la BN regorge de trésors. L'accent n'est pas seulement mis sur la quantité mais sur la qualité. L'utilité des documents n'est pas essentielle : si un seul document n'est consulté qu'une fois, alors sa conservation reste utile.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* En quoi la BNF est-elle "moderne" et à la pointe de la technique ?
+#### En quels termes la BNF est-elle décrite ? Comment est-elle filmée ?
+#### Quelle image de l'institution se dégage de ces choix ?
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Qui travaille à la BNF ? Quel est le public de la BNF dans le film de Resnais ?
+* La BNF "Forteresse de la mémoire", des mots "emprisonnés"
+* Des choix cinématographiques austères : une bibliothèque peuplée de livres et de statues, peu de "personnes" (ou alors elles-mêmes statufiées ou filmées de loin - aucun témoignage)
+* Une musique aux accent dramatiques
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Une institution sérieuse, sacralisée, presque inquiétante.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Quels sont les objets du patrimoine conservés à la BNF ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Manuscrits
+* Textes imprimés
+* Estampes
+* "Médailles" & objets précieux (monnaies, etc.)
+* Cartes & Plans
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Qu'est-ce que le dépôt légal ?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Dépôt légal
+
+>Au titre du dépôt légal, la BnF reçoit par dépôt légal des documents de toute nature édités, importés ou diffusés en France. Instauré en 1537 par François Ier, le dépôt légal est régi par le Code du patrimoine. il s’étend aux livres, périodiques, documents cartographiques, musique notée, documents graphiques et photographiques, mais aussi aux documents sonores, vidéogrammes, documents multimédias, et depuis 2006 aux sites web et aux documents dématérialisés : logiciels, bases de données.
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### En quoi la BNF est-elle "moderne" et à la pointe de la technique ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Un espace en évolution perpétuelle (sous terre et sur terre)
+* Un travail de catalogage à la pointe de la science (des "disciplines aux lois")
+* Des techniques au service de l'efficacité (microfilms, système de communication à air comprimé)
+* Comparaison avec l'imaginaire de Verne (Nemo)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BNF1.png" data-background-size="contain" -->
+
+
+===
+
+"dénombrer, classer, inventorier"...
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BNF2.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BNF3.png" data-background-size="contain" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pneu.png" data-background-size="contain" -->
+
+
+===
+
+>C’est le système pneumatique qui permettait aux bibliothécaires d’antan d’envoyer les demandes de documents dans les services concernés. Un système à air comprimé, qui propulsait des navettes tubulaires contenant les messages à plus de 400 m par minute. Installé en 1935, utilisé jusqu’en 1998, date de déménagement des collections dans la BnF François-Mitterrand, il constitue un élément de décor décalé au milieu des ordinateurs qui l’ont remplacé.
+
+>Ce système de communication était incontournable dans toutes les capitales du monde à la fin du XIXe et au début du XXe siècle. Et pas seulement en bibliothèque ! C’était le mode de transport du courrier public, mis en place dès 1866 à Paris. En 1888, près de 200 km de tubes posés dans les égouts reliaient les bureaux télégraphiques de la capitale.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pneu2.jpeg" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/nemo.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+#### Comment est représenté le public de la BNF dans le film de Resnais ?
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BNF_1.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BNF_2.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Un film centré autour des trésors de la BNF, livres rares, etc.
+* Le scénario suit le circuit du livre
+* Les "Lecteurs" apparaissent brièvement à la fin, sans plus de détails
+* Des "faux insectes croqueurs de papier"
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Conclusion provisoire
+Dans le film d'Alain Resnais, l'image de la BNF est encore celle d'un temple de la conservation entièrement centré autour des oeuvres, elles-mêmes sacralisées. Le public est le grand absent de cette présentation de l'institution, qui apparaît comme la gardienne de notre mémoire -- sans que celle-ci soit questionnée. La BN apparaît également comme un espace à la pointe de la technologie, au service de la préservation des oeuvres. Nous sommes dans un paradigme de la monumentalisation.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -341,6 +455,16 @@ Gallica est la bibliothèque numérique de la Bibliothèque nationale de France.
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 ### À quoi cela sert-il de conserver le patrimoine littéraire ? Le cas Mallarmé
+* Un coup de dés
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+===
+
+https://gallica.bnf.fr/ark:/12148/btv1b8625644w/f1.item
+
+https://gallica.bnf.fr/ark:/12148/bpt6k309916.r=revue%20cosmopolis%201897?rk=107296;4
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
