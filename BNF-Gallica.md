@@ -321,7 +321,7 @@ La mémoire est présentée de manière ironique comme un fardeau. Resnais insis
 
 * La BNF "Forteresse de la mémoire", des mots "emprisonnés"
 * Des choix cinématographiques austères : une bibliothèque peuplée de livres et de statues, peu de "personnes" (ou alors elles-mêmes statufiées ou filmées de loin - aucun témoignage)
-* Une musique aux accent dramatiques
+* Une musique aux accents dramatiques - monumentalisation
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -359,13 +359,6 @@ La mémoire est présentée de manière ironique comme un fardeau. Resnais insis
 #### En quoi la BNF est-elle "moderne" et à la pointe de la technique ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-* Un espace en évolution perpétuelle (sous terre et sur terre)
-* Un travail de catalogage à la pointe de la science (des "disciplines aux lois")
-* Des techniques au service de l'efficacité (microfilms, système de communication à air comprimé)
-* Comparaison avec l'imaginaire de Verne (Nemo)
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/BNF1.png" data-background-size="contain" -->
 
 
@@ -398,6 +391,17 @@ La mémoire est présentée de manière ironique comme un fardeau. Resnais insis
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/nemo.png" data-background-size="contain" -->
 
+===
+
+qui est Nemo chez Jules Verne ? COmment interpréter cette comparaison littéraire ? Verne = écrivain de la technique, scientisme au XIXe
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Un espace en évolution perpétuelle (sous terre et sur terre)
+* Un travail de catalogage à la pointe de la science (des "disciplines aux lois")
+* Des techniques au service de l'efficacité (microfilms, système de communication à air comprimé)
+* Comparaison avec l'imaginaire de Verne (Nemo)
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -427,9 +431,8 @@ Dans le film d'Alain Resnais, l'image de la BNF est encore celle d'un temple de 
 ## Gallica : le temps de la numérisation
 
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
+<!-- .slide: data-background-image="img/gallica2.png" data-background-size="contain" -->
 
 
 ===
@@ -438,27 +441,131 @@ Gallica est la bibliothèque numérique de la Bibliothèque nationale de France.
 
 * à l'origine, un projet de bibliothèque virtuelle : des ordi mis à disposition dans la Bibli, depuis lesquels on aurait eu accès à des oeuvres numérisées
 * dans les années 1990, l'essor du web modifie le projet : désormais, la bibliothèque virtuelle se trouvera en ligne, et on pourra la consulter depuis chez soi.
-* Ouverture = 1987
+* Ouverture = 1997
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Rendez-vous sur la *home* de Gallica
+- À quelle forme médiatique cette page d'accueil fait-elle penser?
+- Que pensez-vous des contenus mis en avant?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallica03.png" data-background-size="contain" -->
+
+===
+
+La première section = "Les actualités".
+Inscription très forte dans l'idée d'une bibliothèque vivante.
+
+Sur le plan des contenus, la home joue le rôle d'une interface de médiation entre les collections et le public. On note une opération de traitement de l'actualité de la bibliothèque, dans le domaine de la culture et des lettres avec :
+- des liens avec l'actualité générale / fais divers = ici, un papier sur les origines et représentations de la galette des rois...
+- des dossiers thématiques qui relèvent de la curation de contenu. Curation = pratique qui consiste à sélectionner, éditer et partager les contenus les plus pertinents. Il s'agit d'une activité propres aux documentalistes, archivistes et tous ceux qui s'occupent de la valorisation du patrimoine.
+- des appels à projets participatifs = ici un concours de coloriage des collections
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/voltaireMontage.png" data-background-size="contain" -->
+
+===
+
+Formellement, la home se présente comme un magazine web, avec une présentation très graphique, différents blocs image-texte qui constituent des portes d'entrée vers la collection numérisée à proprement parler.
+
+On retrouve le design de la presse numérique grand public.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallica04.png" data-background-size="contain" -->
+
+===
+
+Dans les sections suivantes, accessibles en scroll, des contenus davantage ciblés vers des types de public particuliers :
+- contenus didactiques et pédagogiques pour les écoles
+- contenus pour enfants
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Un travail éditorial important (sélection et curation de contenus), emprunté au modèle du magazine web
+* Une page d'accueil conçue comme une porte d'entrée vers l'interface de lecture des contenus numérisés
+* Une pré-sélection par publics pour médier les contenus
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Gallica peut-elle tout publier ?
+### Effectuez une recherche au hasard sur Gallica
+* Quels sont les outils à votre disposition pour effectuer cette recherche ?
+* Quelle est la différence entre la modalité « recherche avancée » et les onglets de la page d’accueil? Ces deux outils ont-ils la même fonction et s’adressent-ils au même public?
+* Quelle est la différence fondamentale avec l’ancien système de la BNF, comme on a pu l’observer dans le film d’Alain Resnais ?
+
+===
+
+Prenez en main la plateforme pour effectuer des recherches. Vous constaterez que la plateforme propose plusieurs méthodes, qui dessinent des parcours de lecture différents.
+
+Effectuez quelques recherches sur Gallica, que vous ayez une idée précise ou non de ce que vous cherchez.
+Quelle est votre méthodologie ?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/gallica03.png" data-background-size="contain" -->
+
+
+===
+
+Plusieurs outils :
+\1. la page d'accueil présente déjà une première sélection comprenant des portes d'entrée vers des contenus de la collection, des oeuvres numérisées. On a vu que cette page d'accueil insistait sur des contenus en phase avec l'actualité, ou s'adressait directemen à des publics précis, ou encore qu'elle mettait en avant des activités ludiques (type concours).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/thematique.png" data-background-size="contain" -->
+
+
+===
+\2. plusieurs parcours thématiques sont également proposés, pour des recherches un peu plus poussées : on y accède via les onglets qui catégorisent différents angles de recherche.
+
+Il s'agit alors de présenter des collections et de proposer des navigations à travers des regroupements spécifiques, selon des catégories qui constituent des portes d'entrées vers les contenus numérisés :
+- approche thématique
+- approche chronologique
+- approche par personnalité
+- approche géographique
+- approche par type de document
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/cartographie.png" data-background-size="contain" -->
+
+
+===
+
+Ces approches proposent pour certaines des visualisations du corpus, c'est-à-dire des modes de représentation permettant de faire émerger du sens à partir d'un vaste ensemble de données, en s'appuyant sur les métadonnées des objets conservés. Par exemple : l'exploration géographique.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/catalogue.png" data-background-size="contain" -->
+
+===
+\3. un moteur de recherche avancée directement branché au catalogue, avec une série de filtres, pour une recherche précise, qui requiert des compétences méthodologiques en recherche
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Trois parcours de lecture
+* Parcours "découverte" : la page d'accueil (aucune maîtrise de l'interface requise, consultation limitée)
+* Parcours de "flâneur" : l'exploration du corpus par catégories [thématique, aire géographique] (public curieux d'approfondir des connaissances ou de découvrir de nouveaux contenus)
+* Parcours "expert" : le moteur de recherche avancée (public averti, qui sait ce qu'il cherche)
+
+===
+Ces trois méthodo renvoient à différents usages de la plateforme, et sans doute à différents lecteurs. On pense à nos persona en médiathèque ou en édition.
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/numerisationCatalogue.png" data-background-size="contain" -->
+
+===
+
+Le catalogue - cf. salle des catalogues dans le film de resnais - a été entièrement informatisé.
+Développer les implications en termes de recherche.
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Gallica peut-elle tout publier ?
-* Des oeuvres libres de droit
+### Effectuez une recherche ciblée sur Gallica
+>a. « Jamais un coup de dés n'abolira le hasard », par Stéphane Mallarmé, Cosmopolis (revue internationale), 1897.  
 
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-### À quoi cela sert-il de conserver le patrimoine littéraire ? Le cas Mallarmé
-* Un coup de dés
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
+>b. « Jamais un coup de dés n'abolira le hasard », poème : [épreuves d'imprimerie], par Stéphane Mallarmé [avec trois lithographies d'Odilon Redon], 1897.  
 
 ===
 
@@ -466,44 +573,194 @@ https://gallica.bnf.fr/ark:/12148/btv1b8625644w/f1.item
 
 https://gallica.bnf.fr/ark:/12148/bpt6k309916.r=revue%20cosmopolis%201897?rk=107296;4
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Quel outil et quelle méthode de recherche avez-vous utilisé ?
+* Explorez l’interface : que pouvez-vous faire avec ces documents (annoter, copier-coller, télécharger…) ? Vous semble-t-elle facile à manier?
+* Que pensez-vous de la qualité de la numérisation?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme_vollard3.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme_vollard2.png" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/mallarme_vollard1.png" data-background-size="contain" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Consultation des métadonnées (volet de gauche)
+* Navigation dans l'oeuvre (conservation de la lecture par "feuilletage")
+* Un texte disponible en format image (une manipulation du texte complexe)
+* Téléchargement pour impression / commande de fac simile
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* Selon vous, à qui s’adresse cette plateforme?
+
+
+Une lecture "avertie" des documents à disposition, principalement pour des chercheurs, amateurs ou professionnels, ou étudiants.
+
+===
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### À quoi cela sert-il de conserver le patrimoine littéraire ? Le cas Mallarmé
+
+
+![](img/comparatif_mallarme5.png)
+
+<!-- .element: style="width:30%; border: 2px black; align=center" -->
+
+
+
+===
+
+« Jamais un coup de dé n’abolira le hasard » est un texte réputé complexe, auquel des ouvrages entiers ont été consacrés. Le texte déploie une sorte de prose poétique difficile à déchiffrer (il est question d'un naufrage, notamment), déployée dans l'espace médiatique du livre et de la page, ce qui n'est pas sans rappeler à l'occasion l'esthétique du calligramme.
+
+Dans l'imaginaire collectif, mais aussi chez les spécialistes, une idée circule, selon laquelle ce texte renfermerait un code secret, que les chercheurs ou amateurs ont tenté de percer depuis des années.
+
+Publié en 1897, « Jamais un coup de dé n’abolira le hasard » est l'aboutissement du projet esthétique de Mallarmé, qui publie le texte à la fin de sa vie. Il s'agit du dernier gros chantier poétique de l'écrivain, qui ne verra jamais son oeuvre achevée.
+
+Le mythe du sens caché de l'oeuvre est d'autant plus forte que c'est une oeuvre "inachevée". L'histoire éditoriale de ce texte a par ailleurs soutenu ce mythe.
+
+En effet, il existe une première version du poème : celle de la revue Cosmopolis, dont Mallarmé n'était pas satisfait. Il a passé les derniers mois de sa vie à travailler sur une autre édition, dont vous avez pu consulter les épreuves sur le site de la BNF. Cette édition est toujours restée à l'état d'épreuves : elle n'a jamais été commercialisée et a été longtemps oubliée. Pourtant, elle est précieusement conservée à la BNF.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+<!-- .slide: data-background-image="img/comparatif_mallarme5.png" data-background-size="contain" -->
+
+
+===
+
+Quelle est la différence entre ces documents ?
+Différence de nature :
+- une publication originale dans une revue littéraire (*Cosmopolis*)
+- une épreuve d'imprimerie (soit un document de travail)
+
+Différences de forme :
+- pas la même disposition sur la page
+- pas la même typographie (Garamond vs Didot)
+- pas la même graisse
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+* 1ère édition dans la Revue *Cosmopolis* (1897)
+* Projet de 2e édition sous forme indépendante, par Vollard, en collaboration avec l'imprimeur Firmin-Didot (1896-97)
+
+>Un projet éditorial oublié pendant près de 50 ans
+
+===
+
+• 1ère édition dans la Revue Cosmopolis. 1897 On est 2 ans avant la mort de Mallarmé - un poète en fin de vie, qui a eu le temps de nourrir son projet.
+Mallarmé n'en était pas complètement satisfait. Il n'aimait pas du tout le travail typographique réalisé : la police choisie n'était pas la bonne, etc.
+Il a du coup travaillé sur une autre édition, son édition idéale, le projet Vollard (du nom de l'éditeur)
+
+• 2e édition sous forme indépendante, par Vollard, en collaboration avec l'imprimeur Firmin-Didot. http://www.coupdedes.com/rubrique4.html
+En fait, il s'agit d'un projet commencé avant la publication dans *Cosmopolis* (même si cette dernière propose la première publication officielle) : 1896 - XXXX. Vollard en est l'initiateur.
+
+De cette édition, qui était presque parfaite aux yeux du poète, nous n'avons que ces épreuves : en fait le projet n'a jamais abouti à une publication.
+
+Il tombe ensuite dans l'oubli pendant plus de 50 ans.
+
+Pendant des dizaines d'années, les rééditions (notamment celle de la NRF qui fait autorité) vont se caler sur la version cosmopolis.
+
+Personne (sauf quelques proches de Mallarmé ou rares collectionneurs et libraires) n'ont eu connaissance des épreuves du projet Vollard, et tous les commentateurs cherchent à déchiffrer le poème sur l'édition héritée de Cosmopolis.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/comparatif_mallarme2.png" data-background-size="contain" -->
+
+
+===
+
+    • La redécouverte des épreuves
+
+La deuxième partie du XXe et le début du XXIe siècle ont vu la multiplication des éditions du Coup de Dés, dans une grande diversité de formats (de luxe ou de poche) et de typographies, certaines s’éloignant de la composition originelle au point de la rendre méconnaissable.
+
+La même période sera aussi celle d’un lent retour aux sources et de la révélation progressive du chef-d’œuvre inconnu oublié dans les tiroirs des collectionneurs.
+
+Il faudra attendre 1993 pour qu’un jeu complet d’épreuves soit présenté au public, sous vitrine, et reproduit intégralement dans le catalogue de l’exposition « Poésure et Peintrie » à l’ancien hospice de la Vieille Charité, à Marseille.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/comparatif_mallarme1.png" data-background-size="contain" -->
+
+
+===
+
+    • Depuis 20 ans: les reconstitutions
+Michel Pierson & Ptyx, 2004, qui utilise la Didot, comme le souhaitait mallarmé pour qui la page devait être conçue comme une toile de peinture, sur laquelle venait s'inscrire le texte.
+
+Jamais un coup de dé n'abolira le hasard doit se lire de manière sémantique, mais aussi graphique, comme une peinture, une calligraphie, mais aussi une partition de musique (la graisse des lettre imitant les rondes sur lesquelles le lecteur doit insister).
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Conclusion provisoire
+Si la plateforme Gallica a d'abord pour objectif de garantir l'accès à ses collections numérisées, on constate un important travail de médiation des collections, ré-organisées et présentées selon différentes catégorisations (thématiques, géographiques, etc.). On note également que cette médiation cherche à diversifier ses publics, en proposant des contenus spécialement adressés à certain.e.s lecteur/rices (enfants, classes, etc.). Cette curation des contenus, qui cherche à s'ancrer dans l'actualité, donne à la page d'accueil de Gallica des airs de média. Cela étant, la fonction première de la plateforme demeure la consultation des collections.
+
+<!-- .element: style="font-size:1.4rem; text-align:justify" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
 ## BDNF : vers une éditorialisation du patrimoine
 
+![](img/BDNF1.png)
+
+<!-- .element: style="width:10%; border: 2px black; align=center" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Analyse du dispositif technique
-  - Qu'est-ce que BDNF ?
-  - Est-ce que le dispositif semble complexe à utiliser ?
+* Comment se définit BDNF ?
+* Quelle est la mission de l’application?
+* L’accent est-il mis sur la conservation et la diffusion du patrimoine?
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/BDNF3.png" data-background-size="contain" -->
+
+
+===
+* BDNF
+* Un encouragement à la réappropriation, au partage, à la création
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+* Est-ce que le dispositif semble complexe à utiliser ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/BDNF2.png" data-background-size="contain" -->
 
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+===
 
 * Un outil modulaire (fonctionne sur ordinateur, tablette, téléphone...) = accessibilité ++
 * Un fonctionnement simple
 
-
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Analyse de la cible
-  - À qui s'adresse BDNF ?
-  - Quel type d'activité propose BDNF ?
+* Relevez en quoi le dispositif BDNF s’appuie sur un principe de ludification / gamification.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/BDNF1.png" data-background-size="contain" -->
 
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/BDNF3.png" data-background-size="contain" -->
+===
+
+* Organisation de concours
+* Appel à partager les contenus produits (dimension collective)
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-* Un principe de gamification / ludification
-* Un encouragement à la réappropriation, au partage, à la création
+* À qui s’adresse l’application selon vous ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
@@ -513,6 +770,7 @@ https://gallica.bnf.fr/ark:/12148/bpt6k309916.r=revue%20cosmopolis%201897?rk=107
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/BDNF4.png" data-background-size="contain"  -->
 
+### Conclusion provisoire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
