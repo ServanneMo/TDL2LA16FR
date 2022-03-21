@@ -278,8 +278,8 @@ que de la main d’œuvre (labor) salariée ?
 C'est le principe des influenceurs.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/playbor.mp4" data-background-size="contain" -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2kqk15A8YyA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
