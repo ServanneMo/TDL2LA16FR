@@ -335,10 +335,11 @@ Exemple : les études (cf INA :https://larevuedesmedias.ina.fr/etude-coronavirus
 
 ### Être distrait, inattentif, c'est forcément mal ?
 
-### Quelles stratégies pour économiser votre attention ?s
+### Quelles stratégies pour économiser votre attention ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/FluALier.mp4" -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G1_ryVCLWoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
