@@ -1,4 +1,4 @@
-a# De la BNF à Gallica
+# De la BNF à Gallica
 
 ### Les mutation de la patrimonialisation littéraire
 
