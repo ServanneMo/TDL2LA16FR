@@ -1,4 +1,4 @@
-# De la BNF à Gallica
+a# De la BNF à Gallica
 
 ### Les mutation de la patrimonialisation littéraire
 
@@ -768,11 +768,6 @@ Si la plateforme Gallica a d'abord pour objectif de garantir l'accès à ses col
   - Quelle conception de l'objet patrimonial se dégage d'une telle initiative ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/BDNF4.png" data-background-size="contain"  -->
 
-### Conclusion provisoire
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+### Conclusion
+Avec l'application BDNF, la BN achève une transition vers l'ouverture, mais surtout l'éditorialisation de ses données. Elle y gagne probablement de nouveaux publics, en particulier un public jeune (voire très jeune), mais apprend du même coup à repenser sa mission, qui ne relève plus seulement de la conservation, mais aussi de la création. En cela, elle participe à ce phénomène de réappropriation collective du patrimoine par les publics d'aujourd'hui.
