@@ -295,8 +295,8 @@ On parlera aujourd'hui de ce concept pour désigner les différentes interaction
 C'est d'ailleurs cette hypothèse que nous sommes tous modélisables, que notre manière d'interagir et de communiquer  est modélisable et reproductible à l'aide des technologie qui est la l'origine des sciences de la comm.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-video="img/readyPlayerOne.mp4" data-background-size="contain" -->
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3DFzWmBVNbU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ===
 
@@ -341,9 +341,45 @@ Exemple : les études (cf INA :https://larevuedesmedias.ina.fr/etude-coronavirus
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1_ryVCLWoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/notification2.jpeg" data-background-size="contain" -->
+
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/developpement-notifications.png" data-background-size="contain" -->
+
+
+===
+
+En quelques années, les notifs devenues un des symboles de la conception addictive des applis par les développeurs et les firmes.
+
+Les notifs, sous forme de petites pastilles, existent depuis les années 90, mais elles ont envahi tout notre espace attentionnel depuis une dizaine d'années surtout, passant des applications des smartphones, aux interfaces de nos ordinateurs voire même au design des sites web.
+
+Ces pastilles rouges d’alertes mettent sur le même plan des choses qui sont pourtant loin d’avoir la même urgence. Les nombres qu’elles affichent, leur valeur, leur couleur uniforme clament pourtant partout le même impératif attentionnel.
+
+Chez les dev Android, seulement 4 niveaux. Alors qu'il en faudrait +.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/revuedesmediaNtifications.png" data-background-size="contain" -->
+
+
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### Exemple : comment gérez-vous vos notifications ?
+### Entre addiction et compulsion
+
+===
+
+>les comportements compulsifs, marque d’anxiété, seraient en train de supplanter les comportements addictifs dont les symptômes favorisent la dépression. Les étudiants américains souffriraient plus d’anxiété que de dépression et selon l’Institut américain de santé mentale, il en serait de même pour les adultes américains. Pourtant, les comportements addictifs ou compulsifs sont encore trop souvent confondus. Or, si ces dépendances comportementales répétitives servent l’une comme l’autre à atténuer nos angoisses, elles semblent avoir des origines différentes. Alors que l’alcoolique cherche à retrouver un sentiment de bien-être, le radin, lui, cherche à atténuer son aversion à la perte.
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+### Et vous, comment gérez-vous vos notifications ?
+* Combien en recevez-vous par jour?
+* Quelle appli vous envoie le plus de notifications ?
+* Quel bruit pour vos notification ?
+* Quelle sensation ressentez-vous à chaque notification ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
