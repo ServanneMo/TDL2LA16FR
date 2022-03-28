@@ -68,7 +68,9 @@ Une forme de professionnalisation de la pratique amatrice : financement présen
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
-### En quoi la pratique de la lecture promue par cette vidéo se distingue-t-elle de celle qui est valorisée par les institutions scolaires et universitaires ?
+### Populaire ou savant ?
+
+* En quoi la pratique de la lecture promue par cette vidéo se distingue-t-elle de celle qui est valorisée par les institutions scolaires et universitaires ?
 
 ===
 
@@ -80,9 +82,9 @@ Valorisation d’une lecture immersive : « intrigue amusante », « personn
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 
-• Premier cercle : bavardage
-• Deuxième cercle : critique professionnelle, à ambition théorique
-• Troisième cercle : critique des artistes
+• Premier cercle : bavardage  
+• Deuxième cercle : critique professionnelle, à ambition théorique  
+• Troisième cercle : critique des artistes  
 
 ![](img/thibaudet.jpg)
 
@@ -109,3 +111,12 @@ Dans les modèles théoriques plus récents, qu’il s’agisse de narratologie 
     • Conception du personnage comme une « quasi-personne », qui suscite des réactions d’empathie ou d’antipathie similaires à celles que nous aurions avec des proches – tout en ayant conscience de leur nature fictionnelle (Françoise Lavocat).
     • Définition du récit par les effets de « tension narrative » qu’il suscite (suspense, curiosité, surprise) (Raphaël Baroni).
 + travaux empiriques qui s’intéressent à la figure de l’amateur sous toutes ses formes : par exemple : fan studies.
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+
+
+Les pratiques des bootubeurs incarnent une forme de professionnalisation de la pratique amatrice : le financement est d'ailleurs souvent présenté de manière transparente, comme on l'a vu dans notre exemple. Les sponsors sont de plus en plus fréquents, ce qui montre que les booktubeur·se·s gagnent en influence. Iels sont désormais reconnu·e·s par le milieu de l’édition comme des acteur·rice·s non négligeables du secteur. Dans le même temps, les bookteubeurs participent à faire évoluer la pratique de la critique littéraire, en favorisant une lecture immersive, qui valorise la dimension psycho-affective.
+
+
+<!-- .element: style="font-size:1.7rem; text-align:justify" -->
