@@ -19,7 +19,7 @@ Source : Alexander Mastronardi ["Star Wars: A Transmedia Story"](https://www.you
 ### Problématique : le transmédia peut-il ramener l'équilibre dans la galaxie des industries culturelles de masse ?
 *Quel est le pouvoir effectif des publics contemporains?*
 
-![](/img/yoda.gif)
+![](img/yoda.gif)
 
 
 
@@ -42,7 +42,7 @@ Source : Alexander Mastronardi ["Star Wars: A Transmedia Story"](https://www.you
 
 ### La leçon de Master Henry Jenkins : converger tu devras
 
-![](/img/jenkinsPubli.png)
+![](img/jenkinsPubli.png)
 
 
 
@@ -277,7 +277,7 @@ Leur fonctionnement est émergent et « bottom-up » (de bas en haut) : ils évo
 
 ### Observez-vous une hiérarchie entre les différents médias qui composent le monde fictionnel de Star Wars ?  
 
-![](/img/starwarscom1.png)
+![](img/starwarscom1.png)
 
 ===
 
@@ -315,7 +315,7 @@ Lire passage de Saint-Gelais. Problème: difficultés à réguler un univers fic
 
 ### Canon / domaine officiel / domaine non-officiel
 
-![](/img/canon1.png)
+![](img/canon1.png)
 
 ===
 
@@ -334,7 +334,7 @@ N-canon « Non canon », qui comprend toutes les œuvres sous licences qui ne fo
 
 ### Le canon Star Wars avant 2014: l'holocron
 
-![](/img/canon2.png)
+![](img/canon2.png)
 
 ===
 
@@ -344,7 +344,7 @@ Suite à l’acquisition de Lucasfilm par Disney en 2012, et à la programmation
 
 ### Le canon Star Wars depuis 2014
 
-![](/img/canon3.png)
+![](img/canon3.png)
 
 ===
 
@@ -363,13 +363,13 @@ Suite à l’acquisition de Lucasfilm par Disney en 2012, et à la programmation
 
 * Un site web qui pousse à consommer
 
-![](/img/starwarscom2.png)
+![](img/starwarscom2.png)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
 * Un site web qui pousse à créer
 
-![](/img/starwarswiki2.png)
+![](img/starwarswiki2.png)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 
